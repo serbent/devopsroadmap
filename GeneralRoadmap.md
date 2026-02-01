@@ -3,8 +3,47 @@
 This document shoulc give a general overview of the DevOps landscape and provide a roadmap for learning and mastering it.
 
 # Linux
+[Linux](Linux/README.md)
 
     * Basic Linux commands
+        * ls
+        * cd
+        * pwd
+        * mkdir
+        * rmdir
+        * rm
+        * cp
+        * mv
+        * touch
+        * cat
+        * less
+        * more
+        * head
+        * tail
+        * grep
+        * find
+        * whereis
+        * which
+        * ps
+        * kill
+        * killall
+        * df
+        * du
+        * free
+        * top
+        * vmstat
+        * iostat
+        * netstat
+        * ss
+        * ping 
+        * traceroute
+        * dig
+        * nslookup
+        * whois
+        * nmap
+        * nload
+        * free
+        * awk
     * Package management
     * File permissions
     * Logging
@@ -38,7 +77,9 @@ This document shoulc give a general overview of the DevOps landscape and provide
         * nload
         * htop
 
- # Network
+# Network
+[Network](Network/README.md)
+
     * OSI model
     * TCP/IP model
     * IP addresses
@@ -63,7 +104,10 @@ This document shoulc give a general overview of the DevOps landscape and provide
         * SNMP
         * SSL
 
-# Logginng and monitoring
+# Logging and monitoring
+[Logging](Loging/README.md)
+[Monitoring](Monitoring/README.md)
+
     * Logging
     * Monitoring
     * Alerting
@@ -71,22 +115,30 @@ This document shoulc give a general overview of the DevOps landscape and provide
     * Tools
 
 # Security
+[Security](Security/README.md)
+
     * Encryption
     * Authentication
     * Authorization
     * Audit
     * Patch management
 
-# Collabortaion
+# Collaboration
+[Git](git/README.md)
+
     * git    
 
 # Containerization
+[Containers](Containers/README.md)
+
     * Docker
     * Kubernetes
     * Container Orchestration
     * Container Security
     
 # CI/CD
+[CI/CD](CICD/README.md)
+
     * CI/CD pipelines
     * CI/CD tools
     * CI/CD best practices
@@ -94,11 +146,15 @@ This document shoulc give a general overview of the DevOps landscape and provide
     * CI/CD monitoring
     
 # Cloud
+[Cloud](Cloud/README.md)
+
     * Cloud providers
     * Cloud services
     * Cloud security
 
 # Kubernetes
+[Kubernetes](Kubernetes/README.md)
+
     * Kubernetes architecture
     * Kubernetes components
     * Kubernetes security'
